@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sltp_editor version="1.1" packageUris="http://schema.mathworks.com/mf0/DiagramEditor/19700101 http://schema.mathworks.com/mf0/SltpSyntax/R2018b_201805311549">
+  <sltp.mm.syntax.Graph type="sltp.mm.syntax.Graph" uuid="746dbd2f-334c-4c9a-8b86-1b5fe3ad65d6">
+    <children type="sltp.mm.syntax.Node" uuid="ff33627f-2834-4273-a470-fee5a6282b54">
+      <priority>40</priority>
+      <rates type="sltp.mm.syntax.RateData">
+        <color>#000000</color>
+        <rate>0</rate>
+      </rates>
+      <title>Cont</title>
+      <type>base</type>
+      <diagramElement type="diagram.editor.model.Entity" uuid="b044255c-786d-4ce5-a77c-a21bc5b12ab0"/>
+      <subgraph type="sltp.mm.syntax.Graph" uuid="497f63ca-463e-4ce8-aa21-d8d674901b00">
+        <title>Cont</title>
+        <diagramElement type="diagram.editor.model.Diagram" uuid="a2f506e8-5d1c-4f9e-b379-f9ed5581d348"/>
+      </subgraph>
+    </children>
+    <title>Default</title>
+    <diagramElement type="diagram.editor.model.Diagram" uuid="0aa8444f-8ec6-4197-89c9-f322b82a8504"/>
+  </sltp.mm.syntax.Graph>
+  <diagram.editor.model.Diagram type="diagram.editor.model.Diagram" uuid="0aa8444f-8ec6-4197-89c9-f322b82a8504">
+    <entities type="diagram.editor.model.Entity" uuid="b044255c-786d-4ce5-a77c-a21bc5b12ab0">
+      <position type="diagram.editor.model.Point"/>
+      <size type="diagram.editor.model.Rect">
+        <height>100</height>
+        <width>100</width>
+      </size>
+      <syntaxElement type="sltp.mm.syntax.Node" uuid="ff33627f-2834-4273-a470-fee5a6282b54"/>
+      <title>Cont</title>
+      <type>base</type>
+      <subDiagram type="diagram.editor.model.Diagram" uuid="a2f506e8-5d1c-4f9e-b379-f9ed5581d348">
+        <position type="diagram.editor.model.Point"/>
+        <size empty="true"/>
+        <syntaxElement type="sltp.mm.syntax.Graph" uuid="497f63ca-463e-4ce8-aa21-d8d674901b00"/>
+        <title>Cont</title>
+        <type>graph.Graph</type>
+      </subDiagram>
+    </entities>
+    <position empty="true"/>
+    <size empty="true"/>
+    <syntaxElement type="sltp.mm.syntax.Graph" uuid="746dbd2f-334c-4c9a-8b86-1b5fe3ad65d6"/>
+    <title>Default</title>
+    <type>graph.Graph</type>
+  </diagram.editor.model.Diagram>
+</sltp_editor>

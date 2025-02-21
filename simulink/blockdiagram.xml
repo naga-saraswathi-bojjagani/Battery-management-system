@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInformation Version="1.0">
+  <Model>
+    <P Name="SavedCharacterEncoding">UTF-8</P>
+    <P Name="SLXCompressionType">Normal</P>
+    <P Name="ScopeRefreshTime">0.035000</P>
+    <P Name="OverrideScopeRefreshTime">on</P>
+    <P Name="DisableAllScopes">off</P>
+    <P Name="DataTypeOverride">UseLocalSettings</P>
+    <P Name="DataTypeOverrideAppliesTo">AllNumericTypes</P>
+    <P Name="MinMaxOverflowLogging">UseLocalSettings</P>
+    <P Name="MinMaxOverflowArchiveMode">Overwrite</P>
+    <P Name="FPTRunName">Run 1</P>
+    <P Name="MaxMDLFileLineLength">120</P>
+    <P Name="LastSavedArchitecture">glnxa64</P>
+    <Object PropName="BdWindowsInfo" ObjectID="1" ClassName="Simulink.BDWindowsInfo">
+      <Object PropName="WindowsInfo" ObjectID="2" ClassName="Simulink.WindowInfo">
+        <P Name="IsActive" Class="logical">1</P>
+        <P Name="Location" Class="double">[0.0, 25.0, 1366.0, 743.0]</P>
+        <Object PropName="ModelBrowserInfo" ObjectID="3" ClassName="Simulink.ModelBrowserInfo">
+          <P Name="Visible" Class="logical">0</P>
+          <P Name="DockPosition" Class="char">Left</P>
+          <P Name="Width" Class="int32">50</P>
+          <P Name="Height" Class="int32">50</P>
+          <P Name="Filter" Class="int32">9</P>
+        </Object>
+        <Object PropName="ExplorerBarInfo" ObjectID="4" ClassName="Simulink.ExplorerBarInfo">
+          <P Name="Visible" Class="logical">1</P>
+        </Object>
+        <Object PropName="EditorsInfo" ObjectID="5" ClassName="Simulink.EditorInfo">
+          <P Name="IsActive" Class="logical">1</P>
+          <P Name="ViewObjType" Class="char">SimulinkTopLevel</P>
+          <P Name="LoadSaveID" Class="char">0</P>
+          <P Name="Extents" Class="double">[1328.0, 554.0]</P>
+          <P Name="ZoomFactor" Class="double">0.8</P>
+          <P Name="Offset" Class="double">[-95.076789081096649, -162.40751546621331]</P>
+        </Object>
+        <Object PropName="DockComponentsInfo" ObjectID="6" ClassName="Simulink.DockComponentInfo">
+          <P Name="Type" Class="char">GLUE2:PropertyInspector</P>
+          <P Name="ID" Class="char">Property Inspector</P>
+          <P Name="Visible" Class="logical">0</P>
+          <P Name="CreateCallback" Class="char"/>
+          <P Name="UserData" Class="char"/>
+          <P Name="Floating" Class="logical">0</P>
+          <P Name="DockPosition" Class="char">Right</P>
+          <P Name="Width" Class="int32">640</P>
+          <P Name="Height" Class="int32">480</P>
+        </Object>
+        <P Name="WindowState" Class="char">AAAA/wAAAAD9AAAAAgAAAAAAAAC9AAAB+PwCAAAAA/sAAAAWAEQAbwBjAGsAVwBpAGQAZwBlAHQAMwEAAAAxAAAB+AAAAAAAAAAA+wAAABYARABvAGMAawBXAGkAZABnAGUAdAA0AAAAAAD/////AAAAAAAAAAD7AAAAUgBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQALwBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQAAAAAAP////8AAABiAP///wAAAAEAAAAAAAAAAPwCAAAAAfsAAABUAEcATABVAEUAMgA6AFAAcgBvAHAAZQByAHQAeQBJAG4AcwBwAGUAYwB0AG8AcgAvAFAAcgBvAHAAZQByAHQAeQAgAEkAbgBzAHAAZQBjAHQAbwByAAAAAAD/////AAAAOQD///8AAAVWAAACaQAAAAEAAAACAAAAAQAAAAL8AAAAAQAAAAIAAAAP/////wAAAAAA/////wAAAAAAAAAA/////wEAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wEAAACA/////wAAAAAAAAAA/////wEAAADo/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wEAAAFo/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA/////wEAAAMk/////wAAAAAAAAAA/////wEAAANW/////wAAAAAAAAAA/////wAAAAAA/////wAAAAAAAAAA</P>
+      </Object>
+    </Object>
+    <P Name="HideAutomaticNames">on</P>
+    <UserParameters>
+      <P Name="PhysicalModelingChecksum">3892634990</P>
+      <P Name="PhysicalModelingParameterChecksum">2755446965</P>
+      <P Name="PhysicalModelingProducts">Power_System_Blocks</P>
+    </UserParameters>
+    <ConfigManagerSettings>
+      <P Name="UpdateHistory">UpdateHistoryNever</P>
+      <P Name="ModifiedByFormat">%&lt;Auto&gt;</P>
+      <P Name="ModifiedDateFormat">%&lt;Auto&gt;</P>
+      <P Name="RTWModifiedTimeStamp">643276283</P>
+      <P Name="ModelVersionFormat">1.%&lt;AutoIncrement:6&gt;</P>
+    </ConfigManagerSettings>
+    <EditorSettings>
+      <P Name="SampleTimeColors">off</P>
+      <P Name="SampleTimeAnnotations">off</P>
+      <P Name="LibraryLinkDisplay">disabled</P>
+      <P Name="WideLines">off</P>
+      <P Name="ShowLineDimensions">off</P>
+      <P Name="ShowPortDataTypes">off</P>
+      <P Name="ShowAllPropagatedSignalLabels">off</P>
+      <P Name="PortDataTypeDisplayFormat">AliasTypeOnly</P>
+      <P Name="ShowEditTimeErrors">on</P>
+      <P Name="ShowEditTimeWarnings">on</P>
+      <P Name="ShowEditTimeAdvisorChecks">off</P>
+      <P Name="ShowPortUnits">off</P>
+      <P Name="ShowDesignRanges">off</P>
+      <P Name="ShowLoopsOnError">on</P>
+      <P Name="IgnoreBidirectionalLines">off</P>
+      <P Name="ShowStorageClass">off</P>
+      <P Name="ShowTestPointIcons">on</P>
+      <P Name="ShowSignalResolutionIcons">on</P>
+      <P Name="ShowViewerIcons">on</P>
+      <P Name="SortedOrder">off</P>
+      <P Name="VariantCondition">off</P>
+      <P Name="ShowSubsystemDomainSpec">off</P>
+      <P Name="ExecutionContextIcon">off</P>
+      <P Name="ShowLinearizationAnnotations">on</P>
+      <P Name="ShowVisualizeInsertedRTB">on</P>
+      <P Name="ShowMarkup">on</P>
+      <P Name="BlockNameDataTip">off</P>
+      <P Name="BlockParametersDataTip">off</P>
+      <P Name="BlockDescriptionStringDataTip">off</P>
+      <P Name="BlockVariantConditionDataTip">off</P>
+      <P Name="ToolBar">on</P>
+      <P Name="StatusBar">on</P>
+      <P Name="BrowserShowLibraryLinks">off</P>
+      <P Name="FunctionConnectors">off</P>
+      <P Name="BrowserLookUnderMasks">off</P>
+      <P Name="MultiThreadCoSim">on</P>
+    </EditorSettings>
+    <SimulationSettings>
+      <P Name="SimulationMode">rapid-accelerator</P>
+      <P Name="VisualizeLoggedSignalsWhenLoggingToFile">off</P>
+      <P Name="PauseTimes">5</P>
+      <P Name="NumberOfSteps">1</P>
+      <P Name="SnapshotBufferSize">10</P>
+      <P Name="SnapshotInterval">10</P>
+      <P Name="NumberOfLastSnapshots">0</P>
+      <P Name="EnablePacing">off</P>
+      <P Name="PacingRate">1</P>
+      <P Name="LinearizationMsg">none</P>
+      <P Name="Profile">off</P>
+      <P Name="ParamWorkspaceSource">MATLABWorkspace</P>
+      <P Name="AccelSystemTargetFile">accel.tlc</P>
+      <P Name="AccelTemplateMakefile">accel_default_tmf</P>
+      <P Name="AccelMakeCommand">make_rtw</P>
+      <P Name="TryForcingSFcnDF">off</P>
+      <Object PropName="DataLoggingOverride" ObjectID="7" ClassName="Simulink.SimulationData.ModelLoggingInfo">
+        <P Name="model_" Class="char">$bdroot</P>
+        <P Name="overrideMode_" Class="uint32">0U</P>
+        <Array PropName="logAsSpecifiedByModels_" Type="Cell" Dimension="1*1">
+          <Cell Class="char">$bdroot</Cell>
+        </Array>
+        <Array PropName="logAsSpecifiedByModelsSSIDs_" Type="Cell" Dimension="1*1">
+          <Cell Class="double">[]</Cell>
+        </Array>
+      </Object>
+    </SimulationSettings>
+    <ExternalMode>
+      <P Name="ExtModeBatchMode">off</P>
+      <P Name="ExtModeEnableFloating">on</P>
+      <P Name="ExtModeTrigType">manual</P>
+      <P Name="ExtModeTrigMode">normal</P>
+      <P Name="ExtModeTrigPort">1</P>
+      <P Name="ExtModeTrigElement">any</P>
+      <P Name="ExtModeTrigDuration">1000</P>
+      <P Name="ExtModeTrigDurationFloating">auto</P>
+      <P Name="ExtModeTrigHoldOff">0</P>
+      <P Name="ExtModeTrigDelay">0</P>
+      <P Name="ExtModeTrigDirection">rising</P>
+      <P Name="ExtModeTrigLevel">0</P>
+      <P Name="ExtModeArchiveMode">off</P>
+      <P Name="ExtModeAutoIncOneShot">off</P>
+      <P Name="ExtModeIncDirWhenArm">off</P>
+      <P Name="ExtModeAddSuffixToVar">off</P>
+      <P Name="ExtModeWriteAllDataToWs">off</P>
+      <P Name="ExtModeArmWhenConnect">on</P>
+      <P Name="ExtModeSkipDownloadWhenConnect">off</P>
+      <P Name="ExtModeLogAll">on</P>
+      <P Name="ExtModeAutoUpdateStatusClock">on</P>
+    </ExternalMode>
+    <ModelReferenceSettings>
+      <P Name="ShowModelReferenceBlockVersion">off</P>
+      <P Name="ShowModelReferenceBlockIO">off</P>
+      <P Name="OrderedModelArguments">on</P>
+    </ModelReferenceSettings>
+    <ConcurrentExecutionSettings>
+      <Object PropName="DataTransfer" ObjectID="8" ClassName="Simulink.GlobalDataTransfer">
+        <P Name="DefaultTransitionBetweenSyncTasks" Class="char">Ensure deterministic transfer (maximum delay)</P>
+        <P Name="DefaultTransitionBetweenAsyncTasks" Class="char">Ensure data integrity only</P>
+        <P Name="DefaultTransitionBetweenContTasks" Class="char">Ensure deterministic transfer (minimum delay)</P>
+        <P Name="DefaultExtrapolationMethodBetweenContTasks" Class="char">None</P>
+        <P Name="AutoInsertRateTranBlk" Class="logical">0</P>
+      </Object>
+      <P Name="ExplicitPartitioning">off</P>
+    </ConcurrentExecutionSettings>
+    <System>
+      <P Name="Location">[0, 25, 1366, 768]</P>
+      <P Name="Open">on</P>
+      <P Name="SetExecutionDomain">off</P>
+      <P Name="ExecutionDomainType">Deduce</P>
+      <P Name="ZoomFactor">80</P>
+      <P Name="ReportName">simulink-default.rpt</P>
+      <P Name="SIDHighWatermark">49</P>
+      <Block BlockType="Reference" Name="Battery" SID="1">
+        <P Name="Ports">[0, 1, 0, 0, 0, 2]</P>
+        <P Name="Position">[350, 92, 425, 168]</P>
+        <P Name="ZOrder">91</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="LibraryVersion">1.1570</P>
+        <P Name="SourceBlock">electricdrivelib/Extra Sources/Battery</P>
+        <P Name="SourceType">Battery</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="BatType">Lithium-Ion</P>
+          <P Name="ShowTempParam">off</P>
+          <P Name="ThermalPreset">no</P>
+          <P Name="ShowAgeParam">off</P>
+          <P Name="NomV">3.7</P>
+          <P Name="NomQ">5.4</P>
+          <P Name="SOC">50</P>
+          <P Name="Batt_Tr">30</P>
+          <P Name="PresetModel">off</P>
+          <P Name="MaxQ">5.4</P>
+          <P Name="MinV">5.4</P>
+          <P Name="FullV">8.3807</P>
+          <P Name="Dis_rate">2.3478</P>
+          <P Name="R">0.013333</P>
+          <P Name="Normal_OP">4.8835</P>
+          <P Name="expZone">[7.7788      0.2653]</P>
+          <P Name="current">[6.5 13 32.5]</P>
+          <P Name="Units">Time</P>
+          <P Name="Tci">20</P>
+          <P Name="NomT">20</P>
+          <P Name="T2">-30</P>
+          <P Name="MaxQ2">4.8</P>
+          <P Name="FullV2">7.1</P>
+          <P Name="Normal_OP2">5.655</P>
+          <P Name="expZone2">[6.58           1]</P>
+          <P Name="Rca">0.6</P>
+          <P Name="ti">2000</P>
+          <P Name="Dp">0</P>
+          <P Name="Neq0">0</P>
+          <P Name="Tsim">1e6</P>
+          <P Name="Ta1">25</P>
+          <P Name="Qeol">5.4*0.9</P>
+          <P Name="Reol">0.013333*1.2</P>
+          <P Name="Char_age">[2.3478, 3]</P>
+          <P Name="Dis_age">[2.3478, 10]</P>
+          <P Name="N1">1500</P>
+          <P Name="N2">10500</P>
+          <P Name="N3">1000</P>
+          <P Name="N4">1400</P>
+          <P Name="Ta2">45</P>
+          <P Name="N5">950</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Battery1" SID="2">
+        <P Name="Ports">[0, 1, 0, 0, 0, 2]</P>
+        <P Name="Position">[340, 267, 415, 343]</P>
+        <P Name="ZOrder">92</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="LibraryVersion">1.1570</P>
+        <P Name="SourceBlock">electricdrivelib/Extra Sources/Battery</P>
+        <P Name="SourceType">Battery</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="BatType">Lithium-Ion</P>
+          <P Name="ShowTempParam">off</P>
+          <P Name="ThermalPreset">no</P>
+          <P Name="ShowAgeParam">off</P>
+          <P Name="NomV">7.2</P>
+          <P Name="NomQ">5.4</P>
+          <P Name="SOC">100</P>
+          <P Name="Batt_Tr">30</P>
+          <P Name="PresetModel">off</P>
+          <P Name="MaxQ">5.4</P>
+          <P Name="MinV">5.4</P>
+          <P Name="FullV">8.3807</P>
+          <P Name="Dis_rate">2.3478</P>
+          <P Name="R">0.013333</P>
+          <P Name="Normal_OP">4.8835</P>
+          <P Name="expZone">[7.7788      0.2653]</P>
+          <P Name="current">[6.5 13 32.5]</P>
+          <P Name="Units">Time</P>
+          <P Name="Tci">20</P>
+          <P Name="NomT">20</P>
+          <P Name="T2">-30</P>
+          <P Name="MaxQ2">4.8</P>
+          <P Name="FullV2">7.1</P>
+          <P Name="Normal_OP2">5.655</P>
+          <P Name="expZone2">[6.58           1]</P>
+          <P Name="Rca">0.6</P>
+          <P Name="ti">2000</P>
+          <P Name="Dp">0</P>
+          <P Name="Neq0">0</P>
+          <P Name="Tsim">1e6</P>
+          <P Name="Ta1">25</P>
+          <P Name="Qeol">5.4*0.9</P>
+          <P Name="Reol">0.013333*1.2</P>
+          <P Name="Char_age">[2.3478, 3]</P>
+          <P Name="Dis_age">[2.3478, 10]</P>
+          <P Name="N1">1500</P>
+          <P Name="N2">10500</P>
+          <P Name="N3">1000</P>
+          <P Name="N4">1400</P>
+          <P Name="Ta2">45</P>
+          <P Name="N5">950</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Battery2" SID="3">
+        <P Name="Ports">[0, 1, 0, 0, 0, 2]</P>
+        <P Name="Position">[350, 267, 425, 343]</P>
+        <P Name="ZOrder">93</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="LibraryVersion">1.1570</P>
+        <P Name="SourceBlock">electricdrivelib/Extra Sources/Battery</P>
+        <P Name="SourceType">Battery</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="BatType">Lithium-Ion</P>
+          <P Name="ShowTempParam">off</P>
+          <P Name="ThermalPreset">no</P>
+          <P Name="ShowAgeParam">off</P>
+          <P Name="NomV">3.7</P>
+          <P Name="NomQ">5.4</P>
+          <P Name="SOC">50</P>
+          <P Name="Batt_Tr">30</P>
+          <P Name="PresetModel">off</P>
+          <P Name="MaxQ">5.4</P>
+          <P Name="MinV">5.4</P>
+          <P Name="FullV">8.3807</P>
+          <P Name="Dis_rate">2.3478</P>
+          <P Name="R">0.013333</P>
+          <P Name="Normal_OP">4.8835</P>
+          <P Name="expZone">[7.7788      0.2653]</P>
+          <P Name="current">[6.5 13 32.5]</P>
+          <P Name="Units">Time</P>
+          <P Name="Tci">20</P>
+          <P Name="NomT">20</P>
+          <P Name="T2">-30</P>
+          <P Name="MaxQ2">4.8</P>
+          <P Name="FullV2">7.1</P>
+          <P Name="Normal_OP2">5.655</P>
+          <P Name="expZone2">[6.58           1]</P>
+          <P Name="Rca">0.6</P>
+          <P Name="ti">2000</P>
+          <P Name="Dp">0</P>
+          <P Name="Neq0">0</P>
+          <P Name="Tsim">1e6</P>
+          <P Name="Ta1">25</P>
+          <P Name="Qeol">5.4*0.9</P>
+          <P Name="Reol">0.013333*1.2</P>
+          <P Name="Char_age">[2.3478, 3]</P>
+          <P Name="Dis_age">[2.3478, 10]</P>
+          <P Name="N1">1500</P>
+          <P Name="N2">10500</P>
+          <P Name="N3">1000</P>
+          <P Name="N4">1400</P>
+          <P Name="Ta2">45</P>
+          <P Name="N5">950</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="BusSelector" Name="Bus&#xA;Selector" SID="24">
+        <P Name="Ports">[1, 1]</P>
+        <P Name="Position">[255, 111, 260, 149]</P>
+        <P Name="ZOrder">1099</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="ShowName">off</P>
+        <P Name="OutputSignals">SOC (%)</P>
+        <P Name="OutputAsBus">off</P>
+        <Port>
+          <P Name="PortNumber">1</P>
+          <P Name="Name">&lt;SOC (%)&gt;</P>
+        </Port>
+      </Block>
+      <Block BlockType="BusSelector" Name="Bus&#xA;Selector1" SID="25">
+        <P Name="Ports">[1, 1]</P>
+        <P Name="Position">[255, 286, 260, 324]</P>
+        <P Name="ZOrder">1100</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="ShowName">off</P>
+        <P Name="OutputSignals">SOC (%)</P>
+        <P Name="OutputAsBus">off</P>
+        <Port>
+          <P Name="PortNumber">1</P>
+          <P Name="Name">&lt;SOC (%)&gt;</P>
+        </Port>
+      </Block>
+      <Block BlockType="Constant" Name="Constant" SID="28">
+        <P Name="Position">[790, -90, 820, -60]</P>
+        <P Name="ZOrder">1103</P>
+        <P Name="Value">0</P>
+      </Block>
+      <Block BlockType="Constant" Name="Constant1" SID="30">
+        <P Name="Position">[95, -70, 125, -40]</P>
+        <P Name="ZOrder">1105</P>
+        <P Name="Value">0</P>
+      </Block>
+      <Block BlockType="Constant" Name="Constant2" SID="33">
+        <P Name="Position">[1135, 45, 1165, 75]</P>
+        <P Name="ZOrder">1108</P>
+        <P Name="Value">0.5</P>
+      </Block>
+      <Block BlockType="Reference" Name="DC Voltage Source" SID="23">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[45, 175, 65, 210]</P>
+        <P Name="ZOrder">1098</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Electrical
+Sources/DC Voltage Source</P>
+        <P Name="SourceType">DC Voltage Source</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="Amplitude">12</P>
+          <P Name="Measurements">None</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Demux" Name="Demux" SID="34">
+        <P Name="Ports">[1, 2]</P>
+        <P Name="Position">[1330, 41, 1335, 79]</P>
+        <P Name="ZOrder">1109</P>
+        <P Name="ShowName">off</P>
+        <P Name="Outputs">2</P>
+        <P Name="DisplayOption">bar</P>
+      </Block>
+      <Block BlockType="Reference" Name="Diode" SID="5">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[633, 100, 677, 160]</P>
+        <P Name="ZOrder">1080</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Power
+Electronics/Diode</P>
+        <P Name="SourceType">Diode</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="Ron">0.001 </P>
+          <P Name="Lon">0</P>
+          <P Name="Vf">0.8</P>
+          <P Name="IC">0</P>
+          <P Name="UseSnubber">0</P>
+          <P Name="Rs">500</P>
+          <P Name="Cs">250e-9</P>
+          <P Name="Measurements">off</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Diode1" SID="7">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[633, 280, 677, 340]</P>
+        <P Name="ZOrder">1083</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Power
+Electronics/Diode</P>
+        <P Name="SourceType">Diode</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="Ron">0.001 </P>
+          <P Name="Lon">0</P>
+          <P Name="Vf">0.8</P>
+          <P Name="IC">0</P>
+          <P Name="UseSnubber">0</P>
+          <P Name="Rs">500</P>
+          <P Name="Cs">250e-9</P>
+          <P Name="Measurements">off</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Display" Name="Display" SID="44">
+        <P Name="Ports">[1]</P>
+        <P Name="Position">[295, -70, 385, -40]</P>
+        <P Name="ZOrder">1119</P>
+        <P Name="Decimation">1</P>
+      </Block>
+      <Block BlockType="Display" Name="Display1" SID="45">
+        <P Name="Ports">[1]</P>
+        <P Name="Position">[515, -70, 605, -40]</P>
+        <P Name="ZOrder">1120</P>
+        <P Name="Decimation">1</P>
+      </Block>
+      <Block BlockType="From" Name="From" SID="6">
+        <P Name="Position">[791, 40, 819, 80]</P>
+        <P Name="ZOrder">1081</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="GotoTag">s1</P>
+      </Block>
+      <Block BlockType="From" Name="From1" SID="8">
+        <P Name="Position">[811, 220, 839, 260]</P>
+        <P Name="ZOrder">1084</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="GotoTag">s2</P>
+      </Block>
+      <Block BlockType="From" Name="From2" SID="39">
+        <P Name="Position">[1100, 150, 1140, 180]</P>
+        <P Name="ZOrder">1114</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="GotoTag">SOC1</P>
+      </Block>
+      <Block BlockType="From" Name="From3" SID="40">
+        <P Name="Position">[1100, 205, 1140, 235]</P>
+        <P Name="ZOrder">1115</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="GotoTag">SOC2</P>
+      </Block>
+      <Block BlockType="Goto" Name="Goto" SID="26">
+        <P Name="Position">[155, 115, 195, 145]</P>
+        <P Name="ZOrder">1101</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="GotoTag">SOC1</P>
+      </Block>
+      <Block BlockType="Goto" Name="Goto1" SID="27">
+        <P Name="Position">[155, 290, 195, 320]</P>
+        <P Name="ZOrder">1102</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="GotoTag">SOC2</P>
+      </Block>
+      <Block BlockType="Goto" Name="Goto2" SID="41">
+        <P Name="Position">[1410, 186, 1450, 214]</P>
+        <P Name="ZOrder">1116</P>
+        <P Name="GotoTag">s1</P>
+      </Block>
+      <Block BlockType="Goto" Name="Goto3" SID="42">
+        <P Name="Position">[1445, 226, 1485, 254]</P>
+        <P Name="ZOrder">1117</P>
+        <P Name="GotoTag">s2</P>
+      </Block>
+      <Block BlockType="Reference" Name="Ground" SID="49">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1]</P>
+        <P Name="Position">[-11, 390, 11, 415]</P>
+        <P Name="ZOrder">1124</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="ShowName">off</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Elements/Ground</P>
+        <P Name="SourceType">Ground</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="LConnTagsString">a</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Ideal Switch" SID="4">
+        <P Name="Ports">[1, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[773, 100, 817, 160]</P>
+        <P Name="ZOrder">1076</P>
+        <P Name="BlockRotation">90</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Power
+Electronics/Ideal Switch</P>
+        <P Name="SourceType">Ideal Switch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="Ron">0.001</P>
+          <P Name="Lon">0</P>
+          <P Name="IC">0</P>
+          <P Name="Rs">1e5</P>
+          <P Name="Cs">inf</P>
+          <P Name="Measurements">off</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Ideal Switch1" SID="9">
+        <P Name="Ports">[1, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[783, 280, 827, 340]</P>
+        <P Name="ZOrder">1082</P>
+        <P Name="BlockRotation">90</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Power
+Electronics/Ideal Switch</P>
+        <P Name="SourceType">Ideal Switch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="Ron">0.001</P>
+          <P Name="Lon">0</P>
+          <P Name="IC">0</P>
+          <P Name="Rs">1e5</P>
+          <P Name="Cs">inf</P>
+          <P Name="Measurements">off</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Ideal Switch2" SID="17">
+        <P Name="Ports">[1, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[925, -27, 985, 17]</P>
+        <P Name="ZOrder">1092</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Power
+Electronics/Ideal Switch</P>
+        <P Name="SourceType">Ideal Switch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="Ron">0.001</P>
+          <P Name="Lon">0</P>
+          <P Name="IC">0</P>
+          <P Name="Rs">1e5</P>
+          <P Name="Cs">inf</P>
+          <P Name="Measurements">off</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Ideal Switch3" SID="29">
+        <P Name="Ports">[1, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[175, -17, 235, 27]</P>
+        <P Name="ZOrder">1104</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Power
+Electronics/Ideal Switch</P>
+        <P Name="SourceType">Ideal Switch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="Ron">0.001</P>
+          <P Name="Lon">0</P>
+          <P Name="IC">0</P>
+          <P Name="Rs">1e5</P>
+          <P Name="Cs">inf</P>
+          <P Name="Measurements">off</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="SubSystem" Name="MATLAB Function" SID="36">
+        <P Name="Ports">[3, 2]</P>
+        <P Name="Position">[1240, 179, 1325, 261]</P>
+        <P Name="ZOrder">1111</P>
+        <P Name="ErrorFcn">Stateflow.Translate.translate</P>
+        <P Name="PermitHierarchicalResolution">ExplicitOnly</P>
+        <P Name="TreatAsAtomicUnit">on</P>
+        <P Name="RequestExecContextInheritance">off</P>
+        <P Name="SFBlockType">MATLAB Function</P>
+        <P Name="ContentPreviewEnabled">on</P>
+        <System>
+          <P Name="Location">[223, 338, 826, 833]</P>
+          <P Name="SetExecutionDomain">off</P>
+          <P Name="ExecutionDomainType">Deduce</P>
+          <P Name="SIDHighWatermark">24</P>
+          <Block BlockType="Inport" Name="SOC1" SID="36::1">
+            <P Name="Position">[20, 101, 40, 119]</P>
+            <P Name="ZOrder">-1</P>
+            <P Name="IconDisplay">Port number</P>
+          </Block>
+          <Block BlockType="Inport" Name="SOC2" SID="36::22">
+            <P Name="Position">[20, 136, 40, 154]</P>
+            <P Name="ZOrder">13</P>
+            <P Name="Port">2</P>
+            <P Name="IconDisplay">Port number</P>
+          </Block>
+          <Block BlockType="Inport" Name="PWM" SID="36::23">
+            <P Name="Position">[20, 171, 40, 189]</P>
+            <P Name="ZOrder">14</P>
+            <P Name="Port">3</P>
+            <P Name="IconDisplay">Port number</P>
+          </Block>
+          <Block BlockType="Demux" Name=" Demux " SID="36::20">
+            <P Name="Ports">[1, 1]</P>
+            <P Name="Position">[270, 230, 320, 270]</P>
+            <P Name="ZOrder">11</P>
+            <P Name="Outputs">1</P>
+          </Block>
+          <Block BlockType="S-Function" Name=" SFunction " SID="36::19">
+            <P Name="Tag">Stateflow S-Function batterymanagefinal 2</P>
+            <P Name="Ports">[3, 3]</P>
+            <P Name="Position">[180, 100, 230, 180]</P>
+            <P Name="ZOrder">10</P>
+            <P Name="FunctionName">sf_sfun</P>
+            <P Name="PortCounts">[3 3]</P>
+            <P Name="SFunctionDeploymentMode">off</P>
+            <P Name="EnableBusSupport">on</P>
+            <P Name="SFcnIsStateOwnerBlock">off</P>
+            <Port>
+              <P Name="PortNumber">2</P>
+              <P Name="Name">s1</P>
+            </Port>
+            <Port>
+              <P Name="PortNumber">3</P>
+              <P Name="Name">s2</P>
+            </Port>
+          </Block>
+          <Block BlockType="Terminator" Name=" Terminator " SID="36::21">
+            <P Name="Position">[460, 241, 480, 259]</P>
+            <P Name="ZOrder">12</P>
+          </Block>
+          <Block BlockType="Outport" Name="s1" SID="36::5">
+            <P Name="Position">[460, 101, 480, 119]</P>
+            <P Name="ZOrder">-5</P>
+            <P Name="IconDisplay">Port number</P>
+          </Block>
+          <Block BlockType="Outport" Name="s2" SID="36::24">
+            <P Name="Position">[460, 136, 480, 154]</P>
+            <P Name="ZOrder">15</P>
+            <P Name="Port">2</P>
+            <P Name="IconDisplay">Port number</P>
+          </Block>
+          <Line>
+            <P Name="ZOrder">20</P>
+            <P Name="Src">36::1#out:1</P>
+            <P Name="Dst">36::19#in:1</P>
+          </Line>
+          <Line>
+            <P Name="ZOrder">21</P>
+            <P Name="Src">36::22#out:1</P>
+            <P Name="Dst">36::19#in:2</P>
+          </Line>
+          <Line>
+            <P Name="ZOrder">22</P>
+            <P Name="Src">36::23#out:1</P>
+            <P Name="Dst">36::19#in:3</P>
+          </Line>
+          <Line>
+            <P Name="Name">s1</P>
+            <P Name="ZOrder">23</P>
+            <P Name="Labels">[0, 0]</P>
+            <P Name="Src">36::19#out:2</P>
+            <P Name="Dst">36::5#in:1</P>
+          </Line>
+          <Line>
+            <P Name="Name">s2</P>
+            <P Name="ZOrder">24</P>
+            <P Name="Labels">[0, 0]</P>
+            <P Name="Src">36::19#out:3</P>
+            <P Name="Dst">36::24#in:1</P>
+          </Line>
+          <Line>
+            <P Name="ZOrder">25</P>
+            <P Name="Src">36::20#out:1</P>
+            <P Name="Dst">36::21#in:1</P>
+          </Line>
+          <Line>
+            <P Name="ZOrder">26</P>
+            <P Name="Src">36::19#out:1</P>
+            <P Name="Dst">36::20#in:1</P>
+          </Line>
+        </System>
+      </Block>
+      <Block BlockType="Reference" Name="PWM Generator&#xA;(2-Level)" SID="32">
+        <P Name="Ports">[1, 1]</P>
+        <P Name="Position">[1215, 41, 1265, 79]</P>
+        <P Name="ZOrder">1107</P>
+        <P Name="LibraryVersion">1.167</P>
+        <P Name="FontName">Arial</P>
+        <P Name="SourceBlock">powerlib_meascontrol/Pulse &amp; Signal
+Generators/PWM Generator
+(2-Level)</P>
+        <P Name="SourceType">PWM Generator (2-Level)</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="ModulatorType">Single-phase half-bridge (2 pulses)</P>
+          <P Name="ModulatorMode">Unsynchronized</P>
+          <P Name="Fc">500</P>
+          <P Name="Pc">0</P>
+          <P Name="nF">27</P>
+          <P Name="MinMax">[ -1  1 ]</P>
+          <P Name="SamplingTechnique">Natural</P>
+          <P Name="ModulatingSignals">off</P>
+          <P Name="m">0.8</P>
+          <P Name="Freq">60</P>
+          <P Name="Phase">0</P>
+          <P Name="Ts">0</P>
+          <P Name="ShowCarrierOutport">off</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Scope" Name="Scope" SID="46">
+        <P Name="Ports">[2]</P>
+        <P Name="Position">[280, 176, 310, 209]</P>
+        <P Name="ZOrder">1121</P>
+        <P Name="ScopeSpecificationString">Simulink.scopes.TimeScopeBlockCfg(&apos;CurrentConfiguration&apos;, extmgr.ConfigurationSet(extmgr.Configuration(&apos;Core&apos;,&apos;General UI&apos;,true),extmgr.Configuration(&apos;Core&apos;,&apos;Source UI&apos;,true),extmgr.Configuration(&apos;Sources&apos;,&apos;WiredSimulink&apos;,true),extmgr.Configuration(&apos;Visuals&apos;,&apos;Time Domain&apos;,true,&apos;SerializedDisplays&apos;,{struct(&apos;MinYLimReal&apos;,&apos;43.75&apos;,&apos;MaxYLimReal&apos;,&apos;106.25&apos;,&apos;YLabelReal&apos;,&apos;&apos;,&apos;MinYLimMag&apos;,&apos;43.75&apos;,&apos;MaxYLimMag&apos;,&apos;106.25&apos;,&apos;LegendVisibility&apos;,&apos;off&apos;,&apos;XGrid&apos;,true,&apos;YGrid&apos;,true,&apos;PlotMagPhase&apos;,false,&apos;AxesColor&apos;,[0 0 0],&apos;AxesTickColor&apos;,[0.686274509803922 0.686274509803922 0.686274509803922],&apos;ColorOrder&apos;,[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],&apos;Title&apos;,&apos;%&lt;SignalLabel&gt;&apos;,&apos;LinePropertiesCache&apos;,{{}},&apos;UserDefinedChannelNames&apos;,{{}},&apos;NumLines&apos;,2,&apos;LineNames&apos;,{{&apos;&lt;SOC (%)&gt;&apos;,&apos;&lt;SOC (%)&gt;&apos;}},&apos;ShowContent&apos;,true,&apos;Placement&apos;,1)},&apos;DisplayPropertyDefaults&apos;,struct(&apos;MinYLimReal&apos;,&apos;43.75&apos;,&apos;MaxYLimReal&apos;,&apos;106.25&apos;,&apos;YLabelReal&apos;,&apos;&apos;,&apos;MinYLimMag&apos;,&apos;43.75&apos;,&apos;MaxYLimMag&apos;,&apos;106.25&apos;,&apos;LegendVisibility&apos;,&apos;off&apos;,&apos;XGrid&apos;,true,&apos;YGrid&apos;,true,&apos;PlotMagPhase&apos;,false,&apos;AxesColor&apos;,[0 0 0],&apos;AxesTickColor&apos;,[0.686274509803922 0.686274509803922 0.686274509803922],&apos;ColorOrder&apos;,[0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;1 1 0.0666666666666667;0.717647058823529 0.274509803921569 1;0.392156862745098 0.831372549019608 0.0745098039215686;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863])),extmgr.Configuration(&apos;Tools&apos;,&apos;Plot Navigation&apos;,true),extmgr.Configuration(&apos;Tools&apos;,&apos;Measurements&apos;,true,&apos;Version&apos;,&apos;2018b&apos;)),&apos;Version&apos;,&apos;2018b&apos;,&apos;Position&apos;,[5 1 1358 651],&apos;VisibleAtModelOpen&apos;,&apos;on&apos;)</P>
+        <P Name="NumInputPorts">2</P>
+        <P Name="Floating">off</P>
+      </Block>
+      <Block BlockType="Reference" Name="Series RLC Branch" SID="13">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[615, 201, 695, 239]</P>
+        <P Name="ZOrder">1088</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Elements/Series RLC Branch</P>
+        <P Name="SourceType">Series RLC Branch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="LConnTagsString">__new0</P>
+          <P Name="RConnTagsString">__new0</P>
+          <P Name="BranchType">L</P>
+          <P Name="Resistance">1</P>
+          <P Name="Inductance">1e-3</P>
+          <P Name="SetiL0">off</P>
+          <P Name="InitialCurrent">0</P>
+          <P Name="Capacitance">1e-6</P>
+          <P Name="Setx0">off</P>
+          <P Name="InitialVoltage">0</P>
+          <P Name="Measurements">None</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Series RLC Branch1" SID="14">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[541, 110, 579, 190]</P>
+        <P Name="ZOrder">1089</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Elements/Series RLC Branch</P>
+        <P Name="SourceType">Series RLC Branch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="LConnTagsString">__new0</P>
+          <P Name="RConnTagsString">__new0</P>
+          <P Name="BranchType">C</P>
+          <P Name="Resistance">1</P>
+          <P Name="Inductance">1e-3</P>
+          <P Name="SetiL0">off</P>
+          <P Name="InitialCurrent">0</P>
+          <P Name="Capacitance">1e-6</P>
+          <P Name="Setx0">off</P>
+          <P Name="InitialVoltage">0</P>
+          <P Name="Measurements">None</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Series RLC Branch2" SID="15">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[541, 280, 579, 360]</P>
+        <P Name="ZOrder">1090</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Elements/Series RLC Branch</P>
+        <P Name="SourceType">Series RLC Branch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="LConnTagsString">__new0</P>
+          <P Name="RConnTagsString">__new0</P>
+          <P Name="BranchType">C</P>
+          <P Name="Resistance">1</P>
+          <P Name="Inductance">1e-3</P>
+          <P Name="SetiL0">off</P>
+          <P Name="InitialCurrent">0</P>
+          <P Name="Capacitance">1e-6</P>
+          <P Name="Setx0">off</P>
+          <P Name="InitialVoltage">0</P>
+          <P Name="Measurements">None</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="Series RLC Branch3" SID="16">
+        <P Name="Ports">[0, 0, 0, 0, 0, 1, 1]</P>
+        <P Name="Position">[1001, 125, 1039, 205]</P>
+        <P Name="ZOrder">1091</P>
+        <P Name="BlockRotation">270</P>
+        <P Name="BlockMirror">on</P>
+        <P Name="NamePlacement">alternate</P>
+        <P Name="LibraryVersion">1.2800</P>
+        <P Name="SourceBlock">powerlib/Elements/Series RLC Branch</P>
+        <P Name="SourceType">Series RLC Branch</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="LConnTagsString">__new0</P>
+          <P Name="RConnTagsString">__new0</P>
+          <P Name="BranchType">R</P>
+          <P Name="Resistance">1</P>
+          <P Name="Inductance">1e-3</P>
+          <P Name="SetiL0">off</P>
+          <P Name="InitialCurrent">0</P>
+          <P Name="Capacitance">1e-6</P>
+          <P Name="Setx0">off</P>
+          <P Name="InitialVoltage">0</P>
+          <P Name="Measurements">None</P>
+        </InstanceData>
+      </Block>
+      <Block BlockType="Reference" Name="powergui" SID="43">
+        <P Name="Ports">[]</P>
+        <P Name="Position">[1060, 410, 1141, 449]</P>
+        <P Name="ZOrder">1118</P>
+        <P Name="Priority">1</P>
+        <P Name="LibraryVersion">*1.2800</P>
+        <P Name="SourceBlock">powerlib/powergui</P>
+        <P Name="SourceType">PSB option menu block</P>
+        <P Name="SourceProductName">Simscape Power Systems</P>
+        <P Name="SourceProductBaseCode">PS</P>
+        <InstanceData>
+          <P Name="ContentPreviewEnabled">on</P>
+          <P Name="SimulationMode">Continuous</P>
+          <P Name="SampleTime">50e-6</P>
+          <P Name="frequency">60</P>
+          <P Name="Iterations">50</P>
+          <P Name="frequencyindice">0</P>
+          <P Name="Pbase">100e6</P>
+          <P Name="ErrMax">1e-4</P>
+          <P Name="UnitsV">kV</P>
+          <P Name="UnitsW">MW</P>
+          <P Name="buscounter">0</P>
+          <P Name="FunctionMessages">off</P>
+          <P Name="echomessages">off</P>
+          <P Name="EnableUseOfTLC">off</P>
+          <P Name="CurrentSourceSwitches">off</P>
+          <P Name="DisableSnubberDevices">off</P>
+          <P Name="DisableRonSwitches">off</P>
+          <P Name="DisableVfSwitches">off</P>
+          <P Name="DisplayEquations">off</P>
+          <P Name="SolverType">Tustin/Backward Euler (TBE)</P>
+          <P Name="Interpol">off</P>
+          <P Name="ExternalGateDelay">off</P>
+          <P Name="methode">off</P>
+          <P Name="Ts">100</P>
+          <P Name="x0status">blocks</P>
+          <P Name="SPID">on</P>
+          <P Name="SwTol">0</P>
+          <P Name="HookPort">off</P>
+          <P Name="RestoreLinks">warning</P>
+          <P Name="ResistiveCurrentMeasurement">off</P>
+          <P Name="Frange">[0:2:500]</P>
+          <P Name="Ylog">off</P>
+          <P Name="Xlog">on</P>
+          <P Name="ShowGrid">off</P>
+          <P Name="save">off</P>
+          <P Name="variable">ZData</P>
+          <P Name="structure">0</P>
+          <P Name="ZoomFFT">off</P>
+          <P Name="StartTime">0.0</P>
+          <P Name="cycles">1</P>
+          <P Name="DisplayStyle">1</P>
+          <P Name="fundamental">60</P>
+          <P Name="FreqAxis">off</P>
+          <P Name="MaxFrequency">1000</P>
+          <P Name="frequencyindicesteady">1</P>
+          <P Name="RmsSteady">1</P>
+          <P Name="display">off</P>
+        </InstanceData>
+      </Block>
+      <Line>
+        <P Name="ZOrder">1</P>
+        <P Name="Src">6#out:1</P>
+        <P Name="Dst">4#in:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">2</P>
+        <P Name="Src">8#out:1</P>
+        <P Name="Points">[0, 5; -10, 0]</P>
+        <P Name="Dst">9#in:1</P>
+      </Line>
+      <Line LineType="Connection">
+        <P Name="ZOrder">3</P>
+        <P Name="Src">4#lconn:1</P>
+        <P Name="Points">[0, -78]</P>
+        <Branch ConnectType="DEST_DEST">
+          <P Name="Src">17#lconn:1</P>
+          <P Name="Points">[-10, 0; 0, 2; -115, 0]</P>
+        </Branch>
+        <Branch ConnectType="DEST_SRC">
+          <P Name="Points">[-130, 0]</P>
+          <Branch ConnectType="DEST_DEST">
+            <P Name="Src">5#rconn:1</P>
+            <P Name="Points">[0, 0; 0, -78]</P>
+          </Branch>
+          <Branch ConnectType="DEST_SRC">
+            <P Name="Points">[-95, 0]</P>
+            <Branch ConnectType="DEST_DEST">
+              <P Name="Src">14#lconn:1</P>
+              <P Name="Points">[0, -88]</P>
+            </Branch>
+            <Branch ConnectType="DEST_SRC">
+              <P Name="Points">[-105, 0]</P>
+              <Branch ConnectType="DEST_DEST">
+                <P Name="Src">29#rconn:1</P>
+                <P Name="Points">[205, 0; 0, 2]</P>
+              </Branch>
+              <Branch ConnectType="DEST_SRC">
+                <P Name="Points">[0, 103]</P>
+                <P Name="Dst">1#lconn:1</P>
+              </Branch>
+            </Branch>
+          </Branch>
+        </Branch>
+      </Line>
+      <Line LineType="Connection">
+        <P Name="ZOrder">4</P>
+        <P Name="Src">3#lconn:1</P>
+        <P Name="Points">[21, 0; 0, -65]</P>
+        <Branch ConnectType="DEST_DEST">
+          <P Name="Points">[560, 220; -99, 0]</P>
+          <Branch ConnectType="SRC_DEST">
+            <P Name="Src">15#lconn:1</P>
+            <P Name="Points">[0, -45]</P>
+          </Branch>
+          <Branch ConnectType="SRC_DEST">
+            <P Name="Src">14#rconn:1</P>
+            <P Name="Points">[0, 15]</P>
+          </Branch>
+          <Branch ConnectType="SRC_DEST">
+            <P Name="Src">13#lconn:1</P>
+            <P Name="Points">[-40, 0]</P>
+          </Branch>
+        </Branch>
+        <Branch ConnectType="DEST_SRC">
+          <P Name="Points">[0, -70]</P>
+          <P Name="Dst">1#lconn:2</P>
+        </Branch>
+      </Line>
+      <Line LineType="Connection">
+        <P Name="ZOrder">9</P>
+        <P Name="Src">4#rconn:1</P>
+        <P Name="Points">[0, 16]</P>
+        <Branch ConnectType="DEST_DEST">
+          <P Name="Src">5#lconn:1</P>
+          <P Name="Points">[0, 16; 140, 0]</P>
+        </Branch>
+        <Branch ConnectType="DEST_SRC">
+          <P Name="Points">[0, 29]</P>
+          <Branch ConnectType="DEST_DEST">
+            <P Name="Src">13#rconn:1</P>
+            <P Name="Points">[85, 0]</P>
+          </Branch>
+          <Branch ConnectType="DEST_SRC">
+            <P Name="Points">[0, 28]</P>
+            <Branch ConnectType="DEST_DEST">
+              <P Name="Src">7#rconn:1</P>
+              <P Name="Points">[0, -17; 140, 0]</P>
+            </Branch>
+            <Branch ConnectType="DEST_SRC">
+              <P Name="Dst">9#lconn:1</P>
+            </Branch>
+          </Branch>
+        </Branch>
+      </Line>
+      <Line LineType="Connection">
+        <P Name="ZOrder">10</P>
+        <P Name="Src">9#rconn:1</P>
+        <P Name="Points">[0, 19]</P>
+        <Branch ConnectType="DEST_SRC">
+          <P Name="Points">[-150, 0]</P>
+          <Branch ConnectType="DEST_DEST">
+            <P Name="Src">7#lconn:1</P>
+            <P Name="Points">[0, 19]</P>
+          </Branch>
+          <Branch ConnectType="DEST_SRC">
+            <P Name="Points">[-95, 0]</P>
+            <Branch ConnectType="DEST_DEST">
+              <P Name="Src">15#rconn:1</P>
+              <P Name="Points">[0, -1]</P>
+            </Branch>
+            <Branch ConnectType="DEST_SRC">
+              <P Name="Points">[-59, 0]</P>
+              <Branch ConnectType="DEST_DEST">
+                <P Name="Points">[55, 374; 446, 0]</P>
+                <Branch ConnectType="SRC_DEST">
+                  <P Name="Src">23#lconn:1</P>
+                  <P Name="Points">[0, 149]</P>
+                </Branch>
+                <Branch ConnectType="SRC_DEST">
+                  <P Name="Src">49#lconn:1</P>
+                  <P Name="Points">[0, -1; 55, 0]</P>
+                </Branch>
+              </Branch>
+              <Branch ConnectType="DEST_SRC">
+                <P Name="Points">[0, -49]</P>
+                <P Name="Dst">3#lconn:2</P>
+              </Branch>
+            </Branch>
+          </Branch>
+        </Branch>
+        <Branch ConnectType="DEST_DEST">
+          <P Name="Src">16#rconn:1</P>
+          <P Name="Points">[0, 154; -215, 0]</P>
+        </Branch>
+      </Line>
+      <Line LineType="Connection">
+        <P Name="ZOrder">35</P>
+        <P Name="Src">17#rconn:1</P>
+        <P Name="Points">[20, 0]</P>
+        <P Name="Dst">16#lconn:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">42</P>
+        <P Name="Src">1#out:1</P>
+        <P Name="Dst">24#in:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">43</P>
+        <P Name="Src">2#out:1</P>
+        <P Name="Dst">25#in:1</P>
+      </Line>
+      <Line>
+        <P Name="Name">&lt;SOC (%)&gt;</P>
+        <P Name="ZOrder">44</P>
+        <P Name="Labels">[0, 0]</P>
+        <P Name="Src">24#out:1</P>
+        <P Name="Points">[-5, 0]</P>
+        <Branch>
+          <P Name="ZOrder">69</P>
+          <P Name="Points">[-17, 0]</P>
+          <Branch>
+            <P Name="ZOrder">73</P>
+            <P Name="Points">[0, 55]</P>
+            <P Name="Dst">46#in:1</P>
+          </Branch>
+          <Branch>
+            <P Name="ZOrder">72</P>
+            <P Name="Dst">26#in:1</P>
+          </Branch>
+        </Branch>
+        <Branch>
+          <P Name="ZOrder">68</P>
+          <P Name="Points">[0, -185]</P>
+          <P Name="Dst">44#in:1</P>
+        </Branch>
+      </Line>
+      <Line>
+        <P Name="Name">&lt;SOC (%)&gt;</P>
+        <P Name="ZOrder">45</P>
+        <P Name="Labels">[0, 0]</P>
+        <P Name="Src">25#out:1</P>
+        <P Name="Points">[-16, 0]</P>
+        <Branch>
+          <P Name="ZOrder">71</P>
+          <P Name="Points">[0, -61; 207, 0; 0, -299]</P>
+          <P Name="Dst">45#in:1</P>
+        </Branch>
+        <Branch>
+          <P Name="ZOrder">70</P>
+          <P Name="Points">[-16, 0]</P>
+          <Branch>
+            <P Name="ZOrder">75</P>
+            <P Name="Points">[0, -105]</P>
+            <P Name="Dst">46#in:2</P>
+          </Branch>
+          <Branch>
+            <P Name="ZOrder">74</P>
+            <P Name="Dst">27#in:1</P>
+          </Branch>
+        </Branch>
+      </Line>
+      <Line>
+        <P Name="ZOrder">46</P>
+        <P Name="Src">28#out:1</P>
+        <P Name="Points">[11, 0; 0, 60]</P>
+        <P Name="Dst">17#in:1</P>
+      </Line>
+      <Line LineType="Connection">
+        <P Name="ZOrder">50</P>
+        <P Name="Src">23#rconn:1</P>
+        <P Name="Points">[0, -145]</P>
+        <P Name="Dst">29#lconn:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">58</P>
+        <P Name="Src">30#out:1</P>
+        <P Name="Points">[20, 0; 0, 50]</P>
+        <P Name="Dst">29#in:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">59</P>
+        <P Name="Src">33#out:1</P>
+        <P Name="Dst">32#in:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">60</P>
+        <P Name="Src">32#out:1</P>
+        <P Name="Dst">34#in:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">61</P>
+        <P Name="Src">34#out:1</P>
+        <P Name="Points">[9, 0; 0, 225; -148, 0; 0, -30]</P>
+        <P Name="Dst">36#in:3</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">63</P>
+        <P Name="Src">40#out:1</P>
+        <P Name="Dst">36#in:2</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">64</P>
+        <P Name="Src">39#out:1</P>
+        <P Name="Points">[45, 0; 0, 30]</P>
+        <P Name="Dst">36#in:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">65</P>
+        <P Name="Src">36#out:2</P>
+        <P Name="Dst">42#in:1</P>
+      </Line>
+      <Line>
+        <P Name="ZOrder">66</P>
+        <P Name="Src">36#out:1</P>
+        <P Name="Dst">41#in:1</P>
+      </Line>
+    </System>
+  </Model>
+</ModelInformation>
